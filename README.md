@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SUJENDRANJ
 - 👀 I’m interested in FRONTEND DEVELOPMENT
 - 🌱 I’m currently learning REACT
-- 💞️ I’m looking on INTERN
+- 📖 I’m looking on INTERN
 - 📫 How to reach me "sujendranjanagiraman@gmail.com"
 - 😄 Pronouns: SUJE
 - ⚡ Fun fact: 🐼😶🤩
