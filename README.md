@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @SUJENDRANJ
-- 👀 I’m interested in FRONTEND DEVELOPMENT
+- 💻 suje.netlify.app
+- 👀 I’m interested in FULL STACK DEVELOPMENT
 - 🌱 I’m currently learning REACT
 - 📖 I’m looking on INTERN
 - 📫 How to reach me "sujendranjanagiraman@gmail.com"
