@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SUJENDRANJ
-- 💻 suje.netlify.app
+- 💻 Portfolio: "suje.netlify.app"
 - 👀 I’m interested in FULL STACK DEVELOPMENT
 - 🌱 I’m currently learning REACT
 - 📖 I’m looking on INTERN
